@@ -37,15 +37,6 @@
 
 ---
 
-## 📊 GitHub at a Glance  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swastiknautiyal&show_icons=true&theme=default&hide_border=true" alt="Swastik's GitHub stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastiknautiyal&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="170"/>
-</p>  
-
----
-
 ## 🚀 What I’m Focusing On  
 - Strengthening SQL query optimization and performance tuning  
 - Building end-to-end data pipelines in Python  
